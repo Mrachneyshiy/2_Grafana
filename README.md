@@ -69,4 +69,4 @@
 
 ### Ответ 4:
 
-- [Dashboard](/dashboard.json)
+- [Dashboard](Dashboard.json)
